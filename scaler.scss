@@ -1,0 +1,5 @@
+@function scaler($oldw, $oldh, $neww) {
+    $ratio: $oldw / $oldh;
+    $newh: $neww / $ratio;
+    @return round($newh) + px;
+}
