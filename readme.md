@@ -1,6 +1,6 @@
-#### usage
+### usage
 
-####base
+#### base
 ```css
 element {
     ...
@@ -11,7 +11,7 @@ element {
 }
 ```
 
-####response
+#### response
 ```css
 element {
     ...
