@@ -1,5 +1,11 @@
 ### usage
 
+#### how?
+```css
+    width: new-width;
+    height: scaler(old-width, old-height, new-width);
+```
+
 #### base
 ```css
 element {
@@ -23,6 +29,7 @@ element {
     ...
 }
 ```
+
 
 **Author**
 Martin Fugess
